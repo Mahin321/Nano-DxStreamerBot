@@ -18,7 +18,6 @@ async def maintainers(b,m):
                 await b.send_message(
                     chat_id=m.chat.id,
                     text="I am Made By <b>Nahian😎</b>",
-                    ),
                     
                     disable_web_page_preview=True)
             
